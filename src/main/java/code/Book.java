@@ -68,7 +68,7 @@ public class Book {
     }
     
     /**
-     * askName Method asks the user to input the name of the book on the console
+     * askName Method asks the user to input the name of the book in the console
      * and returns it.
      * 
      * @return String with the name of the book put by the user.
@@ -80,7 +80,7 @@ public class Book {
     
     /**
      * askName Method asks the user to input the name of the author of the book 
-     * on the console and returns it.
+     * in the console and returns it.
      * 
      * @return String with the name of the author of the book put by the user.
      */

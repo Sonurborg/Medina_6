@@ -3,9 +3,8 @@ package code;
 public class Menu {
     
     /**
-     * run Method runs the optionSel method while
-     * 
-     * @param selection is not 4.
+     * run Method runs the optionSel method while the selection input is different
+     * to 4.
      */
     public static void run(){
         int selection;
@@ -36,7 +35,7 @@ public class Menu {
      * 
      * @param o int of the selection to choose:
      *      1 - Runs addBook to add a new book to the books ArrayList.
-     *      2 - Runs showBooks to print ont screen the attributes of all books on the ArrayList.
+     *      2 - Runs showBooks to print on screen the attributes of all books on the ArrayList.
      *      3 - Runs sellBook to sell a book from the ArrayList.
      */
     private static void options(int o){
